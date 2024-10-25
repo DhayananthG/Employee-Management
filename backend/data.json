@@ -1,0 +1,38 @@
+[
+    {
+      "EmployeeID": "E001",
+      "EmployeeName": "John Doe",
+      "Designation": "Software Engineer",
+      "Department": "IT",
+      "JoiningDate": "2020-06-15"
+    },
+    {
+      "EmployeeID": "E002",
+      "EmployeeName": "Jane Smith",
+      "Designation": "Project Manager",
+      "Department": "Operations",
+      "JoiningDate": "2018-09-20"
+    },
+    {
+      "EmployeeID": "E003",
+      "EmployeeName": "Mark Johnson",
+      "Designation": "Business Analyst",
+      "Department": "Finance",
+      "JoiningDate": "2019-01-25"
+    },
+    {
+      "EmployeeID": "E004",
+      "EmployeeName": "Emily Davis",
+      "Designation": "HR Specialist",
+      "Department": "Human Resources",
+      "JoiningDate": "2021-03-30"
+    },
+    {
+      "EmployeeID": "E005",
+      "EmployeeName": "Michael Brown",
+      "Designation": "DevOps Engineer",
+      "Department": "IT",
+      "JoiningDate": "2017-11-05"
+    }
+  ]
+  
